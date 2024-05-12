@@ -33,3 +33,5 @@ To run the tests, use the following command:
 pytest tests/
 ```
 
+## Preview deployment on main branch
+The main branch is autmatically deployed to Vercel
