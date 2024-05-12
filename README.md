@@ -34,7 +34,7 @@ pytest tests/
 ```
 
 ## Preview deployment on main branch
-The main branch is autmatically deployed to Vercel
+The main branch is automatically deployed to Vercel
 
 https://anthm-api.vercel.app/
 sample output with mocked data https://anthm-api.vercel.app/sessions/valid_session_id
